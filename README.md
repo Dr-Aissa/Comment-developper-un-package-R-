@@ -1,6 +1,7 @@
 # Guide rapide pour créer un package R
 
 Créer un package R permet d’organiser, réutiliser et partager ton code et tes données de manière professionnelle.
+faut pas avoir peur de commencer,le meilleur moment quand tu te décide de faire quelque chose c'est maintenant. 
 
 ## 1. Créer la structure de base
 
@@ -52,7 +53,7 @@ Vérification : devtools::check().
 
 Construction : devtools::build().
 
-7. Versionner et partager
+## 7. Versionner et partager
 
 Initialiser un dépôt Git et .gitignore.
 
