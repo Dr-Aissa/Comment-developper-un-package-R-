@@ -12,6 +12,7 @@ Utiliser :
 usethis::create_package("nom_du_package")
 
 ## 2. Organiser les fichiers
+## les dossiers indispensable pour les packages sont comme suit : 
 
 R/ : scripts avec les fonctions.
 
